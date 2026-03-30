@@ -1,0 +1,76 @@
+{
+  "personal": {
+    "full_name": "YOUR FULL NAME",
+    "email": "you@gmail.com",
+    "phone": "512-555-0000",
+    "city": "Austin, TX",
+    "linkedin": "linkedin.com/in/yourhandle",
+    "github": "github.com/yourhandle",
+    "portfolio": ""
+  },
+
+  "job_target": {
+    "titles": ["Software Engineer", "Backend Developer", "Full Stack Engineer"],
+    "salary_min": 110000,
+    "salary_max": 145000,
+    "work_type": ["remote", "hybrid"],
+    "willing_to_relocate": "No",
+    "notice_period": "2 weeks"
+  },
+
+  "work_authorization": {
+    "authorized_to_work": "Yes, authorized to work in the US",
+    "requires_sponsorship": "No"
+  },
+
+  "skills": {
+    "primary": ["Python", "TypeScript", "React", "PostgreSQL", "AWS"],
+    "secondary": ["Docker", "Redis", "Node.js", "GraphQL"],
+    "soft": ["cross-functional collaboration", "agile", "mentoring junior engineers"]
+  },
+
+  "experience": [
+    {
+      "company": "Acme Corp",
+      "title": "Senior Software Engineer",
+      "start": "Jan 2021",
+      "end": "Present",
+      "bullets": [
+        "Built and maintained REST APIs serving 2M+ requests/day using Python and FastAPI",
+        "Led migration from monolith to microservices, reducing deployment time by 60%",
+        "Mentored 3 junior engineers and conducted weekly code reviews",
+        "Designed PostgreSQL schema and query optimizations cutting p99 latency by 40%"
+      ]
+    },
+    {
+      "company": "Beta Startup",
+      "title": "Software Engineer",
+      "start": "Jun 2019",
+      "end": "Dec 2020",
+      "bullets": [
+        "Developed React frontend features used by 50,000 monthly active users",
+        "Integrated third-party payment APIs including Stripe and PayPal",
+        "Wrote unit and integration tests achieving 85% code coverage"
+      ]
+    }
+  ],
+
+  "education": {
+    "degree": "B.S. Computer Science",
+    "school": "University of Texas at Austin",
+    "graduation_year": "2019",
+    "gpa": "3.6"
+  },
+
+  "screening_answers": {
+    "why_this_company": "I'm drawn to [Company] because of [specific product or mission]. My background in [relevant skill] directly maps to what your team is building, and I want to work somewhere where the engineering quality actually matters.",
+    "why_this_role": "This role matches where I want to grow — specifically around [skill from JD]. I've been doing [adjacent thing] for [X years] and this is the natural next step.",
+    "biggest_strength": "I take ambiguous requirements and turn them into working, testable systems quickly. I ask the right clarifying questions upfront so the team doesn't waste cycles.",
+    "biggest_weakness": "I used to hold code reviews until everything was perfect. Now I ship smaller PRs faster and get feedback earlier — it's made me a better collaborator.",
+    "where_in_5_years": "Leading a small, high-output engineering team on a product I'm genuinely proud of. I want technical depth and some people leadership.",
+    "salary_expectation": "I'm targeting $120,000–$140,000 based on my 5 years of experience and current market rates for this type of role in [location/remote].",
+    "how_did_you_hear": "LinkedIn",
+    "willing_to_do_background_check": "Yes",
+    "have_you_worked_here_before": "No"
+  }
+}
