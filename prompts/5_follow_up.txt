@@ -1,0 +1,25 @@
+PROMPT: WRITE A FOLLOW-UP EMAIL
+================================
+Use this 10 days after you applied and haven't heard back.
+Check your applied_jobs.csv for rows where follow_up_date = today.
+
+================================
+
+Write a follow-up email for a job application I submitted 10 days ago.
+
+COMPANY: [Company name]
+ROLE: [Job title]
+DATE APPLIED: [Date]
+HIRING MANAGER NAME (if you know it): [Name or "Unknown"]
+HIRING MANAGER EMAIL (if you know it): [Email or "Unknown"]
+
+MY NAME: [Your name]
+MY EMAIL: [Your email]
+
+Rules:
+- Keep it under 80 words
+- Do not apologize for following up
+- Reference something specific about the company or role (pull from the JD if you remember it)
+- End with a clear, low-pressure ask: "Happy to jump on a quick call if timing works"
+- Subject line: "Following up — [Role] Application — [Your Name]"
+- Tone: confident and warm, not desperate

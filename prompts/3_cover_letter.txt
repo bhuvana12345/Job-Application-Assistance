@@ -1,0 +1,29 @@
+PROMPT: WRITE MY COVER LETTER
+==============================
+Copy this prompt. Paste into Claude.ai after you finish the resume tailoring.
+Same job description — just paste it again here.
+
+==============================
+
+Write a cover letter for this job application.
+
+JOB DESCRIPTION:
+[PASTE THE FULL JOB DESCRIPTION HERE]
+
+MY PROFILE:
+[PASTE YOUR profile.json HERE]
+
+Rules for the cover letter:
+- 3 short paragraphs, under 250 words total
+- Paragraph 1: Open with the specific problem this company is solving (pull it from the JD) — show I understand their world
+- Paragraph 2: Connect exactly 2 of my real achievements to their exact requirements — use numbers where possible
+- Paragraph 3: One clear, confident closing — ask to talk about the [role name] specifically
+- Use the same keywords and language as the JD (not synonyms — exact phrases)
+- Tone: direct and confident, not begging or sycophantic
+- Do NOT start with "I am writing to express my interest" or any variation of that
+- Do NOT use the phrase "I would be a great fit"
+- Do NOT use "passionate" or "excited"
+
+After the cover letter, give me:
+- Subject line if sending by email: "Application — [Role] — [My Name]"
+- One sentence I can paste into the LinkedIn "Add a note" field when I send a connection request to the hiring manager

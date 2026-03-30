@@ -1,0 +1,27 @@
+PROMPT: ANSWER WORKDAY SCREENING QUESTIONS
+==========================================
+Use this when Workday has a free-text question you're not sure how to answer.
+Paste the question below and Claude will answer using your profile.
+
+==========================================
+
+Answer this job application screening question for me.
+
+MY PROFILE:
+[PASTE YOUR profile.json HERE — just the screening_answers and skills sections is fine]
+
+THE COMPANY I AM APPLYING TO: [Company name]
+THE ROLE I AM APPLYING TO: [Job title]
+
+SCREENING QUESTION:
+[PASTE THE EXACT QUESTION FROM WORKDAY HERE]
+
+Rules:
+- Answer in first person
+- Keep it under 100 words unless the question clearly needs more
+- Use specific examples from my profile where possible
+- Sound like a real human, not a cover letter robot
+- Do not start with "Great question" or any filler
+- If the question has a character limit I tell you, stay under it
+
+CHARACTER LIMIT (if any): [e.g. 500 characters — or leave blank]
