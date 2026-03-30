@@ -1,0 +1,48 @@
+PROMPT: TAILOR MY RESUME FOR THIS JOB
+======================================
+Copy this entire prompt. Paste into Claude.ai.
+Fill in the two sections marked below.
+Takes about 90 seconds per job.
+
+======================================
+
+I am applying for a job. Please help me tailor my resume keywords without changing my actual achievements.
+
+JOB DESCRIPTION:
+[PASTE THE FULL JOB DESCRIPTION HERE]
+
+MY CURRENT RESUME BULLETS:
+[PASTE YOUR CURRENT BULLET POINTS FROM WORD HERE]
+
+MY PROFILE (for context):
+[PASTE YOUR profile.json HERE — or just paste the skills and experience sections]
+
+Please do the following:
+
+STEP 1 — Extract keywords
+List the top 12 ATS keywords and phrases from this job description.
+Focus on: technical skills, tools, methodologies, and any specific phrases they repeat.
+
+STEP 2 — Gap check
+Put a checkmark next to keywords already in my bullets.
+Put an X next to keywords that are missing.
+
+STEP 3 — Rewrite only the changed bullets
+For each MISSING keyword, rewrite only the one bullet point where it fits most naturally.
+Rules:
+- Do NOT invent new achievements
+- Do NOT add skills I didn't list in my profile
+- Use the EXACT phrasing from the job description where possible (ATS matches exact strings)
+- Keep the bullet the same length as the original
+- If a keyword genuinely doesn't fit anywhere, flag it as "cannot add honestly"
+
+STEP 4 — Show me only what changed
+Output ONLY the bullet points that changed. Show:
+  BEFORE: [original line]
+  AFTER:  [new line]
+
+STEP 5 — Score
+Keyword match before: X/12
+Keyword match after: Y/12
+
+Keep it tight. I will copy the AFTER lines directly into Word and replace them.

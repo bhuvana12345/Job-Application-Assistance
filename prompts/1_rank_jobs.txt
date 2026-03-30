@@ -1,0 +1,24 @@
+PROMPT: RANK MY 5 JOBS
+========================
+Copy this entire prompt. Paste it into Claude.ai.
+Replace [PASTE JOBS HERE] with the job data you got from Apify.
+
+========================
+
+Here are 5 job listings I scraped. Please rank them from best to worst fit for me.
+
+MY PROFILE:
+[PASTE YOUR profile.json CONTENT HERE]
+
+JOB LISTINGS:
+[PASTE THE 5 JOBS FROM APIFY CSV HERE - just paste the rows or copy the job titles, companies, and descriptions]
+
+For each job, give me:
+1. Rank (1 = best fit)
+2. Company + Role
+3. Match score out of 10
+4. Top 3 reasons it fits (or doesn't)
+5. The apply link
+
+Format it as a simple numbered list so I can quickly decide which ones to apply to first.
+Only show me jobs that scored 6 or above. Skip anything below 6.
